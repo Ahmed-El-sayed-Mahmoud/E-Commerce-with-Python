@@ -1,0 +1,14 @@
+{
+    "users": [
+        {
+            "name": "ahmed",
+            "phone_number": "asdsao",
+            "email": "ahmed",
+            "gender": "Male",
+            "governorate": "Luxor",
+            "password": "010150",
+            "age": 22,
+            "national_id": "asdas"
+        }
+    ]
+}
